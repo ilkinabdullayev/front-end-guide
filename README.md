@@ -7,6 +7,8 @@ Some draft ideas:
 
 1. Check your job where actually presented in IT World. (should be presented experienced full stack dev)
 2. Picking up course from learning platforms.
+https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
+
 3. Creation Github account(mandatory!)
 4. Publish your hands on works in live context and github. 
 5. Once you have done with step 1, you are ready starting Mosh course.
