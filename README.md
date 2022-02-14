@@ -13,4 +13,5 @@ Some draft ideas:
 6. Resume/Personal info web site
 7. Checking source codes/practices from real web site git codes
 8. Write articles in medium.
+9. Follow code katas: https://jskatas.org/katas/groups/level-easy/
 
