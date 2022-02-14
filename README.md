@@ -10,6 +10,8 @@ Some draft ideas:
 3. Creation Github account(mandatory!)
 4. Publish your hands on works in live context and github. 
 5. Once you have done with step 1, you are ready starting Mosh course.
+https://codewithmosh.com/p/the-ultimate-html-css
+
 6. Translation from design files by leveraging different source: Dribble, Pinterest.
 7. Resume/Personal info web site
 8. Checking source codes/practices from real web site git codes
