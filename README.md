@@ -3,6 +3,10 @@ It is guide for beginners for Front End developers.
 
 NOTE: This guide is not professionally made and just for beginners.
 
+Main goal:
+
+Check your work time if it is at least 5 hours for a day!
+
 Some draft ideas:
 
 1. Check your job where actually presented in IT World. (should be presented experienced full stack dev)
